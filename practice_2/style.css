@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back_1 {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.cube_1 {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+
+.mainCube_1 {
+background-color: black;
+height: 500px;
+width: 500px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.smallCube_1 {
+background-color: white;
+height: 225px;
+width: 225px;
+padding-right: 20px;
+border: black solid 10px;
+}
+
+.cube_2 {
+    background-color: black;
+    height: 500px;
+    width: 150px;
+    border: white solid 10px;
+}
+
+.back_2 {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+
+}
+
+.cube_3 {
+ background-color: black;
+ height: 300px;
+ width: 800px;
+ margin: auto;
+ border: white solid 25px;
+}
+
+.cube_4 {
+    background-color: black;
+    height: 700px;
+    width: 800px;
+    margin: auto;
+    border: white solid 25px;
+}
+
+.cube_5 {
+    background-color: black;
+    height: 475px;
+    width: 800px;
+    margin: auto;
+    border: white solid 25px;
+    
+}
+
+.back_2 {
+    height: 100%;
+    width: 100%;
+
+
+}
+
+.mainCube_2 {
+    display: flex;
+    height: 225px;
+    width: 800px;
+    margin: auto;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.smallCube_2 {
+    background-color: black;
+    height: 650px;
+    width: 225px;
+    border: white solid 10px;
+}
+
+.smallCube_3 {
+    background-color: black;
+    height: 650px;
+    width: 575px;
+    border: white solid 10px;
+}
+
+.cube_6 {
+    background-color: black;
+    height: 525px;
+    width: 800px;
+    margin: auto;
+    border: white solid 10px;
+}
+
+.cube_7 {
+    background-color: black;
+    height: 300px;
+    width: 800px;
+    margin: auto;
+    border: white solid 10px;
+}
+
+.mainCube_3 {
+    display: flex;
+    margin: auto;
+    width: 1000px;
+}
+
+.smallCube_10 {
+    background-color: black;
+    width: 100px;
+    height: 900px;
+
+}
+
+.smallMainCube_1 {
+    width: 900px;
+    
+    
+}
+
+.cube_10 {
+    background-color: black;
+    width: 900px;
+    height: 300px;
+    border: white solid 15px;
+
+}
+
+.cube_15 {
+    background-color: black;
+    width: 1000px;
+    height: 300px;
+}
